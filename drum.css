@@ -8,31 +8,31 @@ h1{
     text-shadow: 5px 2px 5px black;
     box-shadow: 3px 4px 4px 4px white;
 }
-.w{
+.W{
     background-image: url(image/tom1.png);
     background-size: cover;
 }
-.a{
+.A{
     background-image: url(image/tom2.png);
     background-size: cover;
 }
-.s{
+.S{
     background-image: url(image/tom3.png);
     background-size: cover
 }
-.d{
+.D{
     background-image: url(image/tom4.png);
     background-size: cover
 }
-.j{
+.J{
     background-image: url(image/crash.png);
     background-size: cover
 }
-.k{
+.K{
     background-image: url(image/snare.png);
     background-size: cover
 }
-.l{
+.L{
     background-image: url(image/kick.png);
     background-size: cover
 }

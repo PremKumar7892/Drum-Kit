@@ -11,37 +11,37 @@ document.addEventListener('keydown',function(event){
 });
 function makeSound(key){
     switch(key){
-        case "w":
+        case "W":
         var tom1 = new Audio('songs/tom-1.mp3');
         tom1.play();
         break;
 
-        case "a":
+        case "A":
         var tom2 = new Audio('songs/tom-2.mp3');
         tom2.play();
         break;
 
-        case "s":
+        case "S":
         var tom3 = new Audio('songs/tom-3.mp3');
         tom3.play();
         break;
 
-        case "d":
+        case "D":
         var tom4 = new Audio('songs/tom-4.mp3');
         tom4.play();
         break;
 
-        case "j":
+        case "J":
         var crash = new Audio('songs/crash.mp3');
         crash.play();
         break;
 
-        case "k":
+        case "K":
         var snare = new Audio('songs/snare.mp3');
         snare.play();
         break;
 
-        case "l":
+        case "L":
         var kick = new Audio('songs/kick-bass.mp3');
         kick-bass.play();
         break;
